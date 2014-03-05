@@ -1,0 +1,235 @@
+Testing penniesdesign.py...
+= Day 1 you have 1 penny
+= Day 2 you have 2 pennies
+= Day 3 you have 4 pennies
+= Day 4 you have 8 pennies
+= Day 5 you have 16 pennies
+= Day 6 you have 32 pennies
+= Day 7 you have 64 pennies
+= Day 8 you have 128 pennies
+= Day 9 you have 256 pennies
+= Day 10 you have 512 pennies
+= Day 11 you have 1024 pennies
+= Day 12 you have 2048 pennies
+= Day 13 you have 4096 pennies
+= Day 14 you have 8192 pennies
+= Day 15 you have 16384 pennies
+= Day 16 you have 32768 pennies
+= Day 17 you have 65536 pennies
+= Day 18 you have 131072 pennies
+= Day 19 you have 262144 pennies
+= Day 20 you have 524288 pennies
+= Day 21 you have 1048576 pennies
+= Day 22 you have 2097152 pennies
+= Day 23 you have 4194304 pennies
+= Day 24 you have 8388608 pennies
+= Day 25 you have 16777216 pennies
+= Day 26 you have 33554432 pennies
+= Day 27 you have 67108864 pennies
+= Day 28 you have 134217728 pennies
+= Day 29 you have 268435456 pennies
+= Day 30 you have 536870912 pennies
+
+Testing sumcheck.py...
+= Check sum of all integers from 1 to n
+= What value of n? 200
+= The actual sum is 20100
+= The formula gives 20100.0
+
+Testing sumcheck.py...
+= Check sum of all integers from 1 to n
+= What value of n? 11
+= The actual sum is 66
+= The formula gives 66.0
+
+Testing oddsum1.py...
+= Sum all the odd values
+= Enter the starting value (must be odd): 1
+= Enter the ending value (should be odd): 15
+= The total is 64
+
+Testing oddsum2.py...
+= Sum all the odd values
+= Enter the starting value (must be odd): 29
+= Enter the ending value (should be odd): 99
+= This program summed 36 values
+=   and the total is 2304
+
+Testing suminverses.py...
+= Sum the values of 1/i for i from 1 to n (inclusive)
+= Enter the value for n: 10
+= The sum is 2.9289682539682538
+
+Testing sum1overpower2.py...
+= Sum the values of 1 + 1/2 + ... + 1/2**n
+= Enter the value for n: 10
+= The sum is 1.9990234375
+
+Testing sinTaylor.py...
+= Calculate sin(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 0.0
+= Value of n: 2
+= Approximate value of sin( 0.0 ) =  0.0
+
+Testing sinTaylor.py...
+= Calculate sin(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 0.0
+= Value of n: 3
+= Approximate value of sin( 0.0 ) =  0.0
+
+Testing sinTaylor.py...
+= Calculate sin(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 0.0
+= Value of n: 5
+= Approximate value of sin( 0.0 ) =  0.0
+
+Testing sinTaylor.py...
+= Calculate sin(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 0.5
+= Value of n: 2
+= Approximate value of sin( 0.5 ) =  0.4794
+
+Testing sinTaylor.py...
+= Calculate sin(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 0.5
+= Value of n: 3
+= Approximate value of sin( 0.5 ) =  0.4794
+
+Testing sinTaylor.py...
+= Calculate sin(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 0.5
+= Value of n: 5
+= Approximate value of sin( 0.5 ) =  0.4794
+
+Testing sinTaylor.py...
+= Calculate sin(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 1.0
+= Value of n: 2
+= Approximate value of sin( 1.0 ) =  0.8417
+
+Testing sinTaylor.py...
+= Calculate sin(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 1.0
+= Value of n: 3
+= Approximate value of sin( 1.0 ) =  0.8415
+
+Testing sinTaylor.py...
+= Calculate sin(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 1.0
+= Value of n: 5
+= Approximate value of sin( 1.0 ) =  0.8415
+
+Testing sinTaylor.py...
+= Calculate sin(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 1.5
+= Value of n: 2
+= Approximate value of sin( 1.5 ) =  1.0008
+
+Testing sinTaylor.py...
+= Calculate sin(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 1.5
+= Value of n: 3
+= Approximate value of sin( 1.5 ) =  0.9974
+
+Testing sinTaylor.py...
+= Calculate sin(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 1.5
+= Value of n: 5
+= Approximate value of sin( 1.5 ) =  0.9975
+
+Testing cosTaylor.py...
+= Calculate cos(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 0.0
+= Value of n: 2
+= Approximate value of cos( 0.0 ) =  1.0
+
+Testing cosTaylor.py...
+= Calculate cos(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 0.0
+= Value of n: 3
+= Approximate value of cos( 0.0 ) =  1.0
+
+Testing cosTaylor.py...
+= Calculate cos(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 0.0
+= Value of n: 5
+= Approximate value of cos( 0.0 ) =  1.0
+
+Testing cosTaylor.py...
+= Calculate cos(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 0.5
+= Value of n: 2
+= Approximate value of cos( 0.5 ) =  0.8776
+
+Testing cosTaylor.py...
+= Calculate cos(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 0.5
+= Value of n: 3
+= Approximate value of cos( 0.5 ) =  0.8776
+
+Testing cosTaylor.py...
+= Calculate cos(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 0.5
+= Value of n: 5
+= Approximate value of cos( 0.5 ) =  0.8776
+
+Testing cosTaylor.py...
+= Calculate cos(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 1.0
+= Value of n: 2
+= Approximate value of cos( 1.0 ) =  0.5417
+
+Testing cosTaylor.py...
+= Calculate cos(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 1.0
+= Value of n: 3
+= Approximate value of cos( 1.0 ) =  0.5403
+
+Testing cosTaylor.py...
+= Calculate cos(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 1.0
+= Value of n: 5
+= Approximate value of cos( 1.0 ) =  0.5403
+
+Testing cosTaylor.py...
+= Calculate cos(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 1.5
+= Value of n: 2
+= Approximate value of cos( 1.5 ) =  0.0859
+
+Testing cosTaylor.py...
+= Calculate cos(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 1.5
+= Value of n: 3
+= Approximate value of cos( 1.5 ) =  0.0701
+
+Testing cosTaylor.py...
+= Calculate cos(x) using a Taylor Series
+=   (evaluate terms 0 to n)
+= Value of x: 1.5
+= Value of n: 5
+= Approximate value of cos( 1.5 ) =  0.0707
+

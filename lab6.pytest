@@ -1,0 +1,266 @@
+<test file="penniesdesign.py">
+Day 1 you have 1 penny
+Day 2 you have 2 pennies
+Day 3 you have 4 pennies
+Day 4 you have 8 pennies
+Day 5 you have 16 pennies
+Day 6 you have 32 pennies
+Day 7 you have 64 pennies
+Day 8 you have 128 pennies
+Day 9 you have 256 pennies
+Day 10 you have 512 pennies
+Day 11 you have 1024 pennies
+Day 12 you have 2048 pennies
+Day 13 you have 4096 pennies
+Day 14 you have 8192 pennies
+Day 15 you have 16384 pennies
+Day 16 you have 32768 pennies
+Day 17 you have 65536 pennies
+Day 18 you have 131072 pennies
+Day 19 you have 262144 pennies
+Day 20 you have 524288 pennies
+Day 21 you have 1048576 pennies
+Day 22 you have 2097152 pennies
+Day 23 you have 4194304 pennies
+Day 24 you have 8388608 pennies
+Day 25 you have 16777216 pennies
+Day 26 you have 33554432 pennies
+Day 27 you have 67108864 pennies
+Day 28 you have 134217728 pennies
+Day 29 you have 268435456 pennies
+Day 30 you have 536870912 pennies
+</test>
+
+<test file="sumcheck.py">
+Check sum of all integers from 1 to n
+What value of n? <input>200</input>
+The actual sum is 20100
+The formula gives 20100.0
+</test>
+
+<test file="sumcheck.py">
+Check sum of all integers from 1 to n
+What value of n? <input>11</input>
+The actual sum is 66
+The formula gives 66.0
+</test>
+
+<test file="oddsum1.py">
+Sum all the odd values
+Enter the starting value (must be odd): <input>1</input>
+Enter the ending value (should be odd): <input>15</input>
+The total is 64
+</test>
+
+<test file="oddsum2.py">
+Sum all the odd values
+Enter the starting value (must be odd): <input>29</input>
+Enter the ending value (should be odd): <input>99</input>
+This program summed 36 values
+  and the total is 2304
+</test>
+
+<test file="suminverses.py">
+Sum the values of 1/i for i from 1 to n (inclusive)
+Enter the value for n: <input>10</input>
+The sum is 2.9289682539682538
+</test>
+
+<test file="sum1overpower2.py">
+Sum the values of 1 + 1/2 + ... + 1/2**n
+Enter the value for n: <input>10</input>
+The sum is 1.9990234375
+</test>
+
+<test file="sinTaylor.py">
+Calculate sin(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>0.0</input>
+Value of n: <input>2</input>
+Approximate value of sin( 0.0 ) =  0.0
+</test>
+
+<test file="sinTaylor.py">
+Calculate sin(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>0.0</input>
+Value of n: <input>3</input>
+Approximate value of sin( 0.0 ) =  0.0
+</test>
+
+<test file="sinTaylor.py">
+Calculate sin(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>0.0</input>
+Value of n: <input>5</input>
+Approximate value of sin( 0.0 ) =  0.0
+</test>
+
+<test file="sinTaylor.py">
+Calculate sin(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>0.5</input>
+Value of n: <input>2</input>
+Approximate value of sin( 0.5 ) =  0.4794
+</test>
+
+<test file="sinTaylor.py">
+Calculate sin(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>0.5</input>
+Value of n: <input>3</input>
+Approximate value of sin( 0.5 ) =  0.4794
+</test>
+
+<test file="sinTaylor.py">
+Calculate sin(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>0.5</input>
+Value of n: <input>5</input>
+Approximate value of sin( 0.5 ) =  0.4794
+</test>
+
+<test file="sinTaylor.py">
+Calculate sin(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>1.0</input>
+Value of n: <input>2</input>
+Approximate value of sin( 1.0 ) =  0.8417
+</test>
+
+<test file="sinTaylor.py">
+Calculate sin(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>1.0</input>
+Value of n: <input>3</input>
+Approximate value of sin( 1.0 ) =  0.8415
+</test>
+
+<test file="sinTaylor.py">
+Calculate sin(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>1.0</input>
+Value of n: <input>5</input>
+Approximate value of sin( 1.0 ) =  0.8415
+</test>
+
+<test file="sinTaylor.py">
+Calculate sin(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>1.5</input>
+Value of n: <input>2</input>
+Approximate value of sin( 1.5 ) =  1.0008
+</test>
+
+<test file="sinTaylor.py">
+Calculate sin(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>1.5</input>
+Value of n: <input>3</input>
+Approximate value of sin( 1.5 ) =  0.9974
+</test>
+
+<test file="sinTaylor.py">
+Calculate sin(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>1.5</input>
+Value of n: <input>5</input>
+Approximate value of sin( 1.5 ) =  0.9975
+</test>
+
+
+<test file="cosTaylor.py">
+Calculate cos(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>0.0</input>
+Value of n: <input>2</input>
+Approximate value of cos( 0.0 ) =  1.0
+</test>
+
+<test file="cosTaylor.py">
+Calculate cos(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>0.0</input>
+Value of n: <input>3</input>
+Approximate value of cos( 0.0 ) =  1.0
+</test>
+
+<test file="cosTaylor.py">
+Calculate cos(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>0.0</input>
+Value of n: <input>5</input>
+Approximate value of cos( 0.0 ) =  1.0
+</test>
+
+<test file="cosTaylor.py">
+Calculate cos(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>0.5</input>
+Value of n: <input>2</input>
+Approximate value of cos( 0.5 ) =  0.8776
+</test>
+
+<test file="cosTaylor.py">
+Calculate cos(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>0.5</input>
+Value of n: <input>3</input>
+Approximate value of cos( 0.5 ) =  0.8776
+</test>
+
+<test file="cosTaylor.py">
+Calculate cos(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>0.5</input>
+Value of n: <input>5</input>
+Approximate value of cos( 0.5 ) =  0.8776
+</test>
+
+<test file="cosTaylor.py">
+Calculate cos(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>1.0</input>
+Value of n: <input>2</input>
+Approximate value of cos( 1.0 ) =  0.5417
+</test>
+
+<test file="cosTaylor.py">
+Calculate cos(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>1.0</input>
+Value of n: <input>3</input>
+Approximate value of cos( 1.0 ) =  0.5403
+</test>
+
+<test file="cosTaylor.py">
+Calculate cos(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>1.0</input>
+Value of n: <input>5</input>
+Approximate value of cos( 1.0 ) =  0.5403
+</test>
+
+<test file="cosTaylor.py">
+Calculate cos(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>1.5</input>
+Value of n: <input>2</input>
+Approximate value of cos( 1.5 ) =  0.0859
+</test>
+
+<test file="cosTaylor.py">
+Calculate cos(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>1.5</input>
+Value of n: <input>3</input>
+Approximate value of cos( 1.5 ) =  0.0701
+</test>
+
+<test file="cosTaylor.py">
+Calculate cos(x) using a Taylor Series
+  (evaluate terms 0 to n)
+Value of x: <input>1.5</input>
+Value of n: <input>5</input>
+Approximate value of cos( 1.5 ) =  0.0707
+</test>
